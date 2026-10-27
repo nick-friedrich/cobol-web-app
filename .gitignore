@@ -1,0 +1,4 @@
+habits
+data/*.dat
+*.log
+.DS_Store
